@@ -19,4 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weihoj&theme=dark" alt="weihoj" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weihoj&show_icons=true&theme=dark&locale=en&layout=compact" alt="weihoj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weihoj&show_icons=true&theme=onedark&locale=en&layout=compact" alt="weihoj" /></p>
