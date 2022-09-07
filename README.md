@@ -1,11 +1,11 @@
 <h1 align="center">Hei 👋, olen Mio</h1>
-<h3 align="center">Intohimoinen frontend ohjelmoija Suomesta</h3>
+<h3 align="center">Intohimoinen web ohjelmoija Suomesta</h3>
 
 - 👨‍💻 Osa projekteistani on näkyvillä [https://public.bc.fi/s2000966/portfolio/](https://public.bc.fi/s2000966/portfolio/)
 
-- 📫 Miten saada minuun yhteyden **mio.julkunen@gmail.com**
+- 📫 Ota yhteyttä **mio.julkunen@gmail.com**
 
-- ⚡ Hauska fakta **Kivet on painavampia kuin höyhenet**
+- 🏫 Opiskelen Web ohjelmointia Business College Helsingissä
 
 <h3 align="left">Löydä minut:</h3>
 <p align="left">
