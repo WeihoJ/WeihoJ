@@ -1,7 +1,7 @@
 <h1 align="center">Hei 👋, olen Mio</h1>
 <h3 align="center">Intohimoinen web ohjelmoija Suomesta</h3>
 
-- 👨‍💻 Osa projekteistani on näkyvillä [Portfoliossani](https://weihoj.github.io/portfolio)
+- 👨‍💻 Osa projekteistani on näkyvillä [Portfoliossani](https://weihoj.github.io)
 
 - 📫 Ota yhteyttä **mio.julkunen@gmail.com**
 
