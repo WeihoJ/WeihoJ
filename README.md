@@ -1,5 +1,5 @@
 <h1 align="center">Hei 👋, olen Mio</h1>
-<h3 align="center">Intohimoinen web ohjelmoija Suomesta</h3>
+<h3 align="center">Suomalainen web ohjelmoija</h3>
 
 - 👨‍💻 Osa projekteistani on näkyvillä [Portfoliossani](https://weihoj.github.io)
 
